@@ -1,0 +1,12 @@
+/.venv
+/src
+/.pytest_cache
+/tests
+config.yaml
+pytest.ini
+/data/candidates
+/data/.collector.lock
+/data/.http_cache.json
+/data/.source_state.json
+/data/*.bak
+
