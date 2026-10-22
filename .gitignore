@@ -9,4 +9,5 @@ pytest.ini
 /data/.http_cache.json
 /data/.source_state.json
 /data/*.bak
+/data/debug/
 
