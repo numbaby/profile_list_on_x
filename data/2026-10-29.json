@@ -1,0 +1,563 @@
+[
+  {
+    "network": null,
+    "preferred_ip": "162.159.136.133",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "164746",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "id": 1
+  },
+  {
+    "network": null,
+    "preferred_ip": "162.159.158.202",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "164746",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "id": 2
+  },
+  {
+    "network": null,
+    "preferred_ip": "162.159.196.18",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "164746",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "id": 3
+  },
+  {
+    "network": null,
+    "preferred_ip": "104.17.122.26",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "090227",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "id": 4
+  },
+  {
+    "network": null,
+    "preferred_ip": "104.17.17.152",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "090227",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "id": 5
+  },
+  {
+    "network": null,
+    "preferred_ip": "104.19.124.146",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "090227",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "id": 6
+  },
+  {
+    "network": null,
+    "preferred_ip": "104.19.192.103",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "090227",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "id": 7
+  },
+  {
+    "network": null,
+    "preferred_ip": "162.159.160.149",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "090227",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "id": 8
+  },
+  {
+    "network": null,
+    "preferred_ip": "162.159.160.5",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "090227",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "id": 9
+  },
+  {
+    "network": null,
+    "preferred_ip": "172.64.79.254",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "090227",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "id": 10
+  },
+  {
+    "network": null,
+    "preferred_ip": "198.41.208.26",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "090227",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "id": 11
+  },
+  {
+    "network": null,
+    "preferred_ip": "198.41.208.78",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "090227",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "id": 12
+  },
+  {
+    "network": null,
+    "preferred_ip": "198.41.209.194",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "090227",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "id": 13
+  },
+  {
+    "network": "multi",
+    "preferred_ip": "104.19.51.44",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "wetest_total_v4",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "source_metrics": {
+      "China Mobile": {
+        "latency_ms": 59.0,
+        "colo": "HKG"
+      },
+      "China Unicom": {
+        "latency_ms": 194.0,
+        "colo": "LAX"
+      },
+      "China Telecom": {
+        "latency_ms": 187.0,
+        "colo": "LAX"
+      }
+    },
+    "source_timestamp": "10-28 04:21",
+    "id": 14
+  },
+  {
+    "network": "multi",
+    "preferred_ip": "104.19.38.136",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "wetest_total_v4",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "source_metrics": {
+      "China Mobile": {
+        "latency_ms": 62.0,
+        "colo": "HKG"
+      },
+      "China Unicom": {
+        "latency_ms": 194.0,
+        "colo": "LAX"
+      },
+      "China Telecom": {
+        "latency_ms": 189.0,
+        "colo": "LAX"
+      }
+    },
+    "source_timestamp": "10-28 07:45",
+    "id": 15
+  },
+  {
+    "network": "multi",
+    "preferred_ip": "104.19.33.124",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "wetest_total_v4",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "source_metrics": {
+      "China Mobile": {
+        "latency_ms": 59.0,
+        "colo": "HKG"
+      },
+      "China Unicom": {
+        "latency_ms": 207.0,
+        "colo": "LAX"
+      },
+      "China Telecom": {
+        "latency_ms": 184.0,
+        "colo": "LAX"
+      }
+    },
+    "source_timestamp": "10-28 04:03",
+    "id": 16
+  },
+  {
+    "network": "multi",
+    "preferred_ip": "162.159.139.177",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "wetest_total_v4",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "source_metrics": {
+      "China Mobile": {
+        "latency_ms": 199.0,
+        "colo": "LHR"
+      },
+      "China Unicom": {
+        "latency_ms": 86.0,
+        "colo": "HKG"
+      },
+      "China Telecom": {
+        "latency_ms": 167.0,
+        "colo": "SJC"
+      }
+    },
+    "source_timestamp": "10-28 19:09",
+    "id": 17
+  },
+  {
+    "network": "multi",
+    "preferred_ip": "162.159.137.72",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "wetest_total_v4",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "source_metrics": {
+      "China Mobile": {
+        "latency_ms": 195.0,
+        "colo": "LHR"
+      },
+      "China Unicom": {
+        "latency_ms": 84.0,
+        "colo": "HKG"
+      },
+      "China Telecom": {
+        "latency_ms": 186.0,
+        "colo": "SJC"
+      }
+    },
+    "source_timestamp": "10-28 11:33",
+    "id": 18
+  },
+  {
+    "network": "multi",
+    "preferred_ip": "104.19.47.153",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "wetest_total_v4",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "source_metrics": {
+      "China Mobile": {
+        "latency_ms": 62.0,
+        "colo": "HKG"
+      },
+      "China Unicom": {
+        "latency_ms": 208.0,
+        "colo": "LAX"
+      },
+      "China Telecom": {
+        "latency_ms": 203.0,
+        "colo": "LAX"
+      }
+    },
+    "source_timestamp": "10-28 09:03",
+    "id": 19
+  },
+  {
+    "network": "multi",
+    "preferred_ip": "172.66.214.65",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "wetest_total_v4",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "source_metrics": {
+      "China Mobile": {
+        "latency_ms": 105.0,
+        "colo": "HKG"
+      },
+      "China Unicom": {
+        "latency_ms": 188.0,
+        "colo": "LAX"
+      },
+      "China Telecom": {
+        "latency_ms": 184.0,
+        "colo": "LAX"
+      }
+    },
+    "source_timestamp": "10-28 05:57",
+    "id": 20
+  },
+  {
+    "network": "multi",
+    "preferred_ip": "172.66.208.33",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "wetest_total_v4",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "source_metrics": {
+      "China Mobile": {
+        "latency_ms": 132.0,
+        "colo": "HKG"
+      },
+      "China Unicom": {
+        "latency_ms": 188.0,
+        "colo": "LAX"
+      },
+      "China Telecom": {
+        "latency_ms": 183.0,
+        "colo": "LAX"
+      }
+    },
+    "source_timestamp": "10-28 05:57",
+    "id": 21
+  },
+  {
+    "network": "multi",
+    "preferred_ip": "104.18.42.11",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "wetest_total_v4",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "source_metrics": {
+      "China Mobile": {
+        "latency_ms": 90.0,
+        "colo": "HKG"
+      },
+      "China Unicom": {
+        "latency_ms": 321.0,
+        "colo": "LAX"
+      },
+      "China Telecom": {
+        "latency_ms": 125.0,
+        "colo": "SIN"
+      }
+    },
+    "source_timestamp": "10-28 18:09",
+    "id": 22
+  },
+  {
+    "network": "multi",
+    "preferred_ip": "104.19.41.172",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "wetest_total_v4",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "source_metrics": {
+      "China Mobile": {
+        "latency_ms": 66.0,
+        "colo": "HKG"
+      },
+      "China Unicom": {
+        "latency_ms": 195.0,
+        "colo": "LAX"
+      },
+      "China Telecom": {
+        "latency_ms": 294.0,
+        "colo": "LAX"
+      }
+    },
+    "source_timestamp": "10-28 09:09",
+    "id": 23
+  },
+  {
+    "network": "multi",
+    "preferred_ip": "104.20.27.61",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "wetest_total_v4",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "source_metrics": {
+      "China Mobile": {
+        "latency_ms": 212.0,
+        "colo": "LAX"
+      },
+      "China Unicom": {
+        "latency_ms": 111.0,
+        "colo": "HKG"
+      },
+      "China Telecom": {
+        "latency_ms": 232.0,
+        "colo": "AMS"
+      }
+    },
+    "source_timestamp": "10-28 22:45",
+    "id": 24
+  },
+  {
+    "network": "multi",
+    "preferred_ip": "172.66.198.63",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "wetest_total_v4",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "source_metrics": {
+      "China Mobile": {
+        "latency_ms": 140.0,
+        "colo": "LAX"
+      },
+      "China Unicom": {
+        "latency_ms": 232.0,
+        "colo": "YYZ"
+      },
+      "China Telecom": {
+        "latency_ms": 189.0,
+        "colo": "LAX"
+      }
+    },
+    "source_timestamp": "10-28 03:03",
+    "id": 25
+  },
+  {
+    "network": "multi",
+    "preferred_ip": "104.20.26.213",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "wetest_total_v4",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "source_metrics": {
+      "China Mobile": {
+        "latency_ms": 200.0,
+        "colo": "LAX"
+      },
+      "China Unicom": {
+        "latency_ms": 113.0,
+        "colo": "HKG"
+      },
+      "China Telecom": {
+        "latency_ms": 248.0,
+        "colo": "AMS"
+      }
+    },
+    "source_timestamp": "10-29 00:09",
+    "id": 26
+  },
+  {
+    "network": "multi",
+    "preferred_ip": "104.18.246.125",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "wetest_total_v4",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "source_metrics": {
+      "China Mobile": {
+        "latency_ms": 192.0,
+        "colo": "SEA"
+      },
+      "China Unicom": {
+        "latency_ms": 191.0,
+        "colo": "LAX"
+      },
+      "China Telecom": {
+        "latency_ms": 185.0,
+        "colo": "LAX"
+      }
+    },
+    "source_timestamp": "10-28 05:15",
+    "id": 27
+  },
+  {
+    "network": "multi",
+    "preferred_ip": "104.18.27.215",
+    "packet_loss": null,
+    "latency_ms": null,
+    "speed_mb_s": null,
+    "bandwidth_mb": null,
+    "source": "wetest_total_v4",
+    "ip_version": 4,
+    "timestamp": "2026-10-29T00:09:01.171634+08:00",
+    "source_metrics": {
+      "China Mobile": {
+        "latency_ms": 193.0,
+        "colo": "LHR"
+      },
+      "China Unicom": {
+        "latency_ms": 188.0,
+        "colo": "LAX"
+      },
+      "China Telecom": {
+        "latency_ms": 188.0,
+        "colo": "LAX"
+      }
+    },
+    "source_timestamp": "10-28 04:57",
+    "id": 28
+  }
+]
